@@ -1,11 +1,6 @@
-# Jeeliz 👓 — Real-Time Glasses Virtual Try-On for the Web
-
-We’ve built the most **photo-realistic real-time glasses virtual try-on** solution available directly in the browser.  
-Learn more on [**Jeeliz.com**](https://jeeliz.com).
-
----
-
 ## 🕶️ Eyewear Virtual Try-On
+We have built the most **photo-realistic real-time glasses virtual try-on** solution available directly in the browser.  
+Learn more on [**Jeeliz.com**](https://jeeliz.com).
 
 The main repository is [**Jeeliz VTO Widget**](https://github.com/jeeliz/jeelizGlassesVTOWidget), which hosts the player powering our online eyewear try-on experience.
 
@@ -24,13 +19,16 @@ We also provide a suite of open-source **face detection and tracking** libraries
 
 ---
 
-## 🌐 About Jeeliz & WebAR.rocks
+## 🌐 WebAR.rocks
 
-**Jeeliz** is a registered trademark of **WebAR.rocks**.  
-Check out more of our work here:
+**Jeeliz** has a sister company, [**WebAR.rocks**](https://webar.rocks),  
+which offers a broader ecosystem of **WebAR libraries** — covering face filters, object detection and tracking, custom neural network training, hand tracking, and more.
+
+Explore our extended projects:
 
 * [WebAR.rocks GitHub Repositories](https://github.com/webAR-rocks)  
 * [WebAR.rocks Official Website](https://webar.rocks)
+
 
 ---
 
